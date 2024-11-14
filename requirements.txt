@@ -3,3 +3,5 @@ TgCrypto
 python-arq
 pykeyboard
 python-dotenv
+flask
+pyrogram 
